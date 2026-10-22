@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Comparaciones estrictas (>): detecta tambien los empates.
 int main() {
     double a, b, c;
     cout << "Ingrese el primer numero: ";
