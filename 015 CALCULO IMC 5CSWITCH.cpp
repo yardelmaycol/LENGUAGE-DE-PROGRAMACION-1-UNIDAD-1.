@@ -11,7 +11,6 @@ int main() {
     double imc = peso / (altura * altura);
     cout << "IMC = " << imc << endl;
 
-    // Se asigna un codigo de categoria (1 a 5) y se evalua con switch
     int categoria;
     if (imc < 18.5)      categoria = 1;
     else if (imc < 25)   categoria = 2;
