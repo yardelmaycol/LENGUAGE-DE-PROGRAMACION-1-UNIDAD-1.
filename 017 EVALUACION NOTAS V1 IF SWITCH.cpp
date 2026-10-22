@@ -1,7 +1,5 @@
 #include <iostream>
 using namespace std;
-
-// Escala vigesimal (0 - 20)
 int main() {
     int nota;
     cout << "Ingrese la nota (0-20): ";
