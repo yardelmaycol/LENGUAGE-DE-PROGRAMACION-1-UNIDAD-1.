@@ -1,5 +1,4 @@
-// Programa: Promedio de Notas con bucle for
-// Funcion : Solicita la cantidad de notas a promediar, lee cada nota con un bucle for y calcula el promedio dividiendo la suma entre el numero de notas.
+
 #include <iostream>
 using namespace std;
 
