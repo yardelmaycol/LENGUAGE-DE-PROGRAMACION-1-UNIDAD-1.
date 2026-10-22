@@ -12,7 +12,7 @@ int main() {
     cout << "Ingrese c: ";
     cin >> c;
 
-    double d = b * b - 4 * a * c;   // discriminante
+    double d = b * b - 4 * a * c;   
     if (d >= 0) {
         double x1 = (-b + sqrt(d)) / (2 * a);
         double x2 = (-b - sqrt(d)) / (2 * a);
