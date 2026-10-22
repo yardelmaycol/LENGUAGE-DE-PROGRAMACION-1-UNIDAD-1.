@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
-// Compatibilidad solo por grupo ABO (A, B, AB, O)
 int main() {
     string donante, receptor;
     cout << "Grupo del donante (A, B, AB, O): ";
