@@ -1,5 +1,4 @@
-// Programa: Clasificacion de Numeros Enteros
-// Funcion : Solicita 10 numeros enteros, calcula su suma y cuenta cuantos son pares, impares y nulos usando un bucle for con acumulador y contadores multiples.
+
 #include <iostream>
 using namespace std;
 
