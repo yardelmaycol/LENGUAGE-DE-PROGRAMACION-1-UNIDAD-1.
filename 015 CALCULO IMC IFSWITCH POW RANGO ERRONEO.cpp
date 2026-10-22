@@ -8,8 +8,6 @@ int main() {
     cin >> peso;
     cout << "Ingrese la altura (m): ";
     cin >> altura;
-
-    // Validacion de rangos erroneos
     if (peso <= 0 || peso > 500) {
         cout << "Error: peso fuera de rango (0 - 500 kg)." << endl;
         return 1;
