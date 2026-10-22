@@ -1,7 +1,5 @@
 #include <iostream>
 using namespace std;
-
-// Glucosa en ayunas (mg/dL)
 int main() {
     double glucosa;
     cout << "Ingrese la glucosa en ayunas (mg/dL): ";
